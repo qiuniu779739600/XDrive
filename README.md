@@ -1,4 +1,4 @@
-# XDrive 
+# XDrive，这是稚辉君的步进电机驱动，包含原理图、PCB、源代码 
 Stepper motor with multi-function interface and closed loop function.  
 具有多功能接口和闭环功能的步进电机。
 ![appearance icon](\Picture\appearance.jpg)
